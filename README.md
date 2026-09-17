@@ -1,62 +1,110 @@
-Privacybeleid Deducto
-Laatst bijgewerkt: 17 september 2026
+# Privacy Policy for Deducto
 
-Dit privacybeleid beschrijft welke gegevens de mobiele app Deducto (pakketnaam com.devotte.deducto) verwerkt, en wat er met die gegevens gebeurt.
+**Last updated:** 17 September 2026
 
-Verantwoordelijke: OvaGames Contact: Ottevanalebeek@gmail.com
+This privacy policy explains what data the mobile app **Deducto** (package name
+`com.devotte.deducto`) processes, and what happens to that data.
 
-Kort samengevat
-Deducto vraagt geen account, gebruikt geen inlog en stuurt zelf geen enkel gegeven naar een server. Alles wat de app over je spel bijhoudt, blijft op je eigen toestel staan. De enige partij die gegevens van je toestel ontvangt is Google, voor het tonen van advertenties.
+**Controller:** OvaGames
+**Contact:** ottevanalebeek@gmail.com
 
-Gegevens die op je toestel blijven
-De app bewaart je voortgang in de lokale opslag van je toestel. Het gaat om:
+## In short
 
-je huidige reeks (streak), je langste reeks en het aantal opgeloste puzzels;
-je hint-tokens en de totale speeltijd, voor je gemiddelde;
-je instellingen: gekozen thema, ontgrendelde thema's, trilfeedback, geluid en de moeilijkheidsverschuiving;
-of je de speluitleg al hebt gezien;
-een onderbroken puzzel, zodat je die later kunt hervatten;
-tellers die bepalen hoe vaak er een advertentie mag verschijnen.
-Deze gegevens bevatten geen naam, e-mailadres, locatie of andere gegevens waarmee je persoonlijk te identificeren bent. Ze worden niet verstuurd, niet gedeeld en niet geanalyseerd. Wij hebben er geen toegang toe.
+Deducto does not ask for an account, has no login, and sends no data of its own
+to any server. Everything the app records about your game stays on your own
+device. The only party that receives data from your device is Google, for the
+purpose of showing advertisements.
 
-De app gebruikt geen analysesoftware en houdt geen gebruiksstatistieken bij op een server.
+## Data that stays on your device
 
-Advertenties
-Deducto toont advertenties via Google AdMob. Google kan daarbij gegevens van je toestel verwerken, waaronder:
+The app stores your progress in your device's local storage. This covers:
 
-de advertentie-id van je toestel (een resetbaar identificatienummer);
-je IP-adres en daaruit afgeleide globale locatie (land of regio);
-gegevens over je toestel, zoals model, besturingssysteem en taal;
-gegevens over de getoonde advertenties, zoals of je erop hebt geklikt en of je een beloonde video hebt uitgekeken.
-Google gebruikt deze gegevens om advertenties te tonen en te meten, en om fraude tegen te gaan. Google treedt hierbij op als zelfstandige partij met een eigen privacybeleid:
+- your current streak, your longest streak and the number of puzzles solved;
+- your hint tokens and total play time, used to calculate your average;
+- your settings: chosen theme, unlocked themes, haptic feedback, sound and the
+  difficulty offset;
+- whether you have already seen the tutorial;
+- an unfinished puzzle, so that you can resume it later;
+- counters that decide how often an advertisement may appear.
 
-Privacybeleid van Google: https://policies.google.com/privacy
-Hoe Google gegevens gebruikt van apps die Google-diensten gebruiken: https://policies.google.com/technologies/partner-sites
-Om advertenties mogelijk te maken vraagt de app op Android toegang tot het internet en tot de advertentie-id van het toestel. Andere rechten vraagt de app niet: geen locatie, geen camera, geen microfoon, geen contacten, geen bestanden.
+This data contains no name, email address, location or any other information
+that identifies you personally. It is not transmitted, not shared and not
+analysed. We have no access to it.
 
-Toestemming
-Als je je in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland bevindt, vraagt de app bij de eerste start je toestemming voordat er advertentiegegevens worden verwerkt. Je kunt dan kiezen tussen gepersonaliseerde en niet-gepersonaliseerde advertenties.
+The app uses no analytics software and keeps no usage statistics on a server.
 
-Je kunt die keuze op elk moment wijzigen via de instellingen in de app. Je kunt daarnaast in de instellingen van je toestel je advertentie-id resetten of gepersonaliseerde advertenties volledig uitschakelen:
+## Advertising
 
-Android: Instellingen → Privacy → Advertenties
-iOS: Instellingen → Privacy en beveiliging → Tracking
-Kinderen
-Deducto is niet gericht op kinderen jonger dan 13 jaar. Wij verzamelen niet bewust gegevens van kinderen. Als je vermoedt dat dat toch is gebeurd, neem dan contact op via het adres bovenaan dit document.
+Deducto shows advertisements through **Google AdMob**. In doing so, Google may
+process data from your device, including:
 
-Je rechten
-Onder de Algemene verordening gegevensbescherming (AVG) heb je recht op inzage, correctie en verwijdering van je persoonsgegevens, en op het intrekken van je toestemming.
+- your device's advertising ID (a resettable identifier);
+- your IP address and the approximate location derived from it (country or
+  region);
+- information about your device, such as model, operating system and language;
+- information about the advertisements shown, such as whether you tapped one
+  and whether you watched a rewarded video to the end.
 
-Omdat wij zelf geen persoonsgegevens opslaan of ontvangen, hebben wij niets in bezit dat wij kunnen inzien of verwijderen. Gegevens die je op je eigen toestel hebt staan, verwijder je door de app te verwijderen. Voor gegevens die door Google zijn verwerkt, kun je terecht bij Google via het privacybeleid waarnaar hierboven wordt verwezen.
+Google uses this data to serve and measure advertisements, and to prevent
+fraud. Google acts as an independent party with its own privacy policy:
 
-Bewaartermijn
-De gegevens in de app blijven op je toestel staan zolang de app geïnstalleerd is. Verwijder je de app, dan verdwijnen ze mee. Hoe lang Google gegevens bewaart, staat beschreven in het privacybeleid van Google.
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses information from sites or apps that use its services:
+  https://policies.google.com/technologies/partner-sites
 
-Beveiliging
-Omdat de app geen gegevens verstuurt of opslaat buiten je toestel, is er geen server waarop gegevens kunnen uitlekken. De lokale opslag is beveiligd door de gebruikelijke bescherming van je besturingssysteem: andere apps kunnen er niet bij.
+To make advertising possible, the app requests access to the internet and to
+your device's advertising ID on Android. The app requests no other permissions:
+no location, no camera, no microphone, no contacts, no files.
 
-Wijzigingen
-Wanneer dit privacybeleid verandert, passen wij de datum bovenaan aan en plaatsen wij de nieuwe versie op dezelfde locatie. Bij ingrijpende wijzigingen melden wij dat in de app.
+## Consent
 
-Contact
-Vragen over dit privacybeleid? Neem contact op via ottevanalebeek@gmail.com.
+If you are located in the European Economic Area, the United Kingdom or
+Switzerland, the app asks for your consent on first launch before any
+advertising data is processed. You can then choose between personalised and
+non-personalised advertisements.
+
+You can change that choice at any time in the app's settings. You can also
+reset your advertising ID or turn off personalised advertising entirely in your
+device settings:
+
+- Android: Settings → Privacy → Ads
+- iOS: Settings → Privacy & Security → Tracking
+
+## Children
+
+Deducto is not directed at children under the age of 13. We do not knowingly
+collect data from children. If you believe this has happened regardless, please
+contact us at the address at the top of this document.
+
+## Your rights
+
+Under the General Data Protection Regulation (GDPR) you have the right to
+access, rectify and erase your personal data, and to withdraw your consent.
+
+Because we do not store or receive any personal data ourselves, we hold nothing
+that we could disclose or delete. Data held on your own device is removed by
+uninstalling the app. For data processed by Google, please refer to the Google
+privacy policy linked above.
+
+## Retention
+
+Data in the app remains on your device for as long as the app is installed. If
+you uninstall the app, it is removed along with it. Google's retention periods
+are described in Google's own privacy policy.
+
+## Security
+
+Because the app neither transmits nor stores data outside your device, there is
+no server from which data could leak. Local storage is protected by the normal
+safeguards of your operating system: other apps cannot read it.
+
+## Changes
+
+If this privacy policy changes, we will update the date at the top and publish
+the new version in the same location. We will announce significant changes in
+the app.
+
+## Contact
+
+Questions about this privacy policy? Please get in touch at
+ottevanalebeek@gmail.com
